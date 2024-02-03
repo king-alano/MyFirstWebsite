@@ -57,10 +57,8 @@ header{
   font-size: 17px;
   text-decoration: none;
   border-radius: 50px;
-  background-color: #eee;
   height: 50px;
   width: 98%;
-  overflow: hidden;
   transition: 0.3s;
   cursor: pointer;
   outline: none;
@@ -87,7 +85,7 @@ header{
     color: #308c28;
 }
 
-/*content text*/
+/*text content*/
 .imp{
     color:#308c28;
     font-weight: bold;
@@ -113,7 +111,7 @@ header{
       /* background-color: blue; */
     }
     #about{    
-        padding-right: 10%;
+        padding-right: 10%; /*eh the responsiveness for this page is a bit weird but whateva*/
     }
   }
 
